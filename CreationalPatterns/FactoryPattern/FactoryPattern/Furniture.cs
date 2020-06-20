@@ -2,7 +2,6 @@
 {
     class Furniture : File
     {
-        // Factory Method implementation
         public override void CreateItemss()
         {
             Itemss.Add(new SofasetItems());
